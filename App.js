@@ -3,7 +3,6 @@ import * as React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
-// Importe suas telas
 import Home from './screens/Home';
 import ValorHora from './screens/ValorHora';
 import Historico from './screens/Historico';
